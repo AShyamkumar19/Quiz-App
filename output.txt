@@ -1,0 +1,382 @@
+hat is the capital of France?::: -Easy -Hard
+hat is the capital of France?:::Paris -Easy -Hard
+hat is the capital of Germany?:::Berlin -Hard -Hard
+hat is the capital of Italy?:::Rome -Hard -Hard
+What is the capital of France?:::Par
+hat is the capital of Italy? ::: Rome -Hard -Hard
+hat is the capital of Spain? :::Madrid -Hard -Hard
+hat is the capital of France?:::Paris -Easy -Hard
+hat is the capital of Germany?::: Berlin -Easy -Hard
+What is the capital of France?:::Paris -Hard
+What is the capital of Germany?:::Berlin -Hard
+What is the capital of Italy?:::Rome -Hard
+What is the capital of Spain?:::Madrid -Hard
+hat is the capital of France?:::Paris -Hard -Hard
+hat is the capital of Germany?:::Berlin -Hard -Hard
+hat is the capital of Italy?:::Rome -Hard -Hard
+hat is the capital of Spain?:::Madrid -Hard -Hard
+at is the capital of France?::: -Easy -Hard -Hard
+at is the capital of France?:::Paris -Easy -Hard -Hard
+at is the capital of Germany?:::Berlin -Hard -Hard -Hard
+at is the capital of Italy?:::Rome -Hard -Hard -Hard
+What is the capital of France?:::Par
+at is the capital of France?:::Paris -Hard -Hard -Hard
+at is the capital of Germany?:::Berlin -Hard -Hard -Hard
+at is the capital of Italy?:::Rome -Hard -Hard -Hard
+at is the capital of Spain?:::Madrid -Hard -Hard -Hard
+t is the capital of France?::: -Easy -Hard -Hard -Hard
+t is the capital of France?:::Paris -Easy -Hard -Hard -Hard
+t is the capital of Germany?:::Berlin -Hard -Hard -Hard -Hard
+t is the capital of Italy?:::Rome -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+t is the capital of France?:::Paris -Hard -Hard -Hard -Hard
+t is the capital of Germany?:::Berlin -Hard -Hard -Hard -Hard
+t is the capital of Italy?:::Rome -Hard -Hard -Hard -Hard
+t is the capital of Spain?:::Madrid -Hard -Hard -Hard -Hard
+is the capital of France?::: -Easy -Hard -Hard -Hard -Hard
+is the capital of France?:::Paris -Easy -Hard -Hard -Hard -Hard
+is the capital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard
+is the capital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+is the capital of France?:::Paris -Hard -Hard -Hard -Hard -Hard
+is the capital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard
+is the capital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard
+is the capital of Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard
+s the capital of France?::: -Easy -Hard -Hard -Hard -Hard -Hard
+s the capital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard
+s the capital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard
+s the capital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+s the capital of France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard
+s the capital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard
+s the capital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard
+s the capital of Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard
+the capital of France?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard
+the capital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard
+the capital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+the capital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+the capital of France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+the capital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+the capital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+the capital of Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+he capital of France?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+he capital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+he capital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+he capital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+he capital of France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+he capital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+he capital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+he capital of Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e capital of France?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e capital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e capital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e capital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+e capital of France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e capital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e capital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e capital of Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+capital of France?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+capital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+capital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+capital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+capital of France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+capital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+capital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+capital of Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of France?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+apital of France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of France?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+pital of France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ital of France?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+ital of France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ital of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ital of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ital of Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+tal of France?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+tal of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+tal of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+tal of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+tal of France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+tal of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+tal of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+tal of Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+al of France?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+al of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+al of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+al of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+al of France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+al of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+al of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+al of Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+l of France?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+l of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+l of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+l of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+l of France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+l of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+l of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+l of Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+of France?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+of France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+of Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+of Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+of Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+f France?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+f France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+f Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+f Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+f France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+f Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+f Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+f Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+France?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+France?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+Germany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+Italy?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+Spain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+rance?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+rance?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ermany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+taly?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+rance?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ermany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+taly?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ance?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ance?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+rmany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+aly?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+ance?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+rmany?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+aly?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ain?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+nce?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+nce?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+many?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ly?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+nce?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+many?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ly?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+in?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ce?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ce?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+any?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+y?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+ce?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+any?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+y?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+n?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ny?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+e?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ny?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+?:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+?:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+?::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+y?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+?:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+y?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+:::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+::: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+:::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+?:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+::Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+:: -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+::Paris -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+:::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+::Berlin -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+What is the capital of France?:::Par
+:: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+:: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+:::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+y?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ny?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+y? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+n? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ce?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+any?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ly? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+in? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+nce?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+many?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+aly? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ance?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+rmany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+taly? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+rance?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ermany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+f Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+f Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+f France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+f Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+of Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+of Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+of Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+l of Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+l of Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+l of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+l of Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+al of Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+al of Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+al of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+al of Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+tal of Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+tal of Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+tal of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+tal of Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ital of Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ital of Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+ital of Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+pital of Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+apital of Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+capital of Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+capital of Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+capital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+capital of Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e capital of Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e capital of Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e capital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+e capital of Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+he capital of Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+he capital of Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+he capital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+he capital of Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+the capital of Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+the capital of Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard -Hard
+the capital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard -Hard
+the capital of Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard -Hard
+s the capital of Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard -Hard
+s the capital of Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard -Hard
+s the capital of France?:::Paris -Easy -Hard -Hard -Hard -Hard -Hard
+s the capital of Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard -Hard
+is the capital of Italy? ::: Rome -Hard -Hard -Hard -Hard -Hard
+is the capital of Spain? :::Madrid -Hard -Hard -Hard -Hard -Hard
+is the capital of France?:::Paris -Easy -Hard -Hard -Hard -Hard
+is the capital of Germany?::: Berlin -Easy -Hard -Hard -Hard -Hard
+t is the capital of Spain? :::Madrid -Hard -Hard -Hard -Hard
+t is the capital of Italy? ::: Rome -Hard -Hard -Hard -Hard
+t is the capital of France?:::Paris -Easy -Hard -Hard -Hard
+t is the capital of Germany?::: Berlin -Easy -Hard -Hard -Hard
+at is the capital of Italy? ::: Rome -Hard -Hard -Hard
+at is the capital of Spain? :::Madrid -Hard -Hard -Hard
+at is the capital of France?:::Paris -Easy -Hard -Hard
+at is the capital of Germany?::: Berlin -Easy -Hard -Hard
